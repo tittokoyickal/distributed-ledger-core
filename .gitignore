@@ -1,0 +1,21 @@
+# This is a GitHub .gitignore file.
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.suo
+*.osproj
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]ut/
+
+# Visual Studio 2019
+.vsconfig
+
+# Visual Studio Code
+.history/
